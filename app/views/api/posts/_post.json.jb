@@ -1,0 +1,6 @@
+{
+  id: post.id,
+  title: post.title,
+  text: post.text,
+  image_url: post.image_url,
+}
